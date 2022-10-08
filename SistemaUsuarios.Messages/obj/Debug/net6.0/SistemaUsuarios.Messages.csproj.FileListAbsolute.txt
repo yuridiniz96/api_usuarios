@@ -1,0 +1,12 @@
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\bin\Debug\net6.0\SistemaUsuarios.Messages.deps.json
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\bin\Debug\net6.0\SistemaUsuarios.Messages.dll
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\bin\Debug\net6.0\SistemaUsuarios.Messages.pdb
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\obj\Debug\net6.0\SistemaUsuarios.Messages.csproj.AssemblyReference.cache
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\obj\Debug\net6.0\SistemaUsuarios.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\obj\Debug\net6.0\SistemaUsuarios.Messages.AssemblyInfoInputs.cache
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\obj\Debug\net6.0\SistemaUsuarios.Messages.AssemblyInfo.cs
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\obj\Debug\net6.0\SistemaUsuarios.Messages.csproj.CoreCompileInputs.cache
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\obj\Debug\net6.0\SistemaUsuarios.Messages.dll
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\obj\Debug\net6.0\refint\SistemaUsuarios.Messages.dll
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\obj\Debug\net6.0\SistemaUsuarios.Messages.pdb
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Messages\obj\Debug\net6.0\ref\SistemaUsuarios.Messages.dll

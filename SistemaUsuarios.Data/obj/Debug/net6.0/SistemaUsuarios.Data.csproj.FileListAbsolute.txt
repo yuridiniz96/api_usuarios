@@ -1,0 +1,14 @@
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\bin\Debug\net6.0\SistemaUsuarios.Data.deps.json
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\bin\Debug\net6.0\SistemaUsuarios.Data.runtimeconfig.json
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\bin\Debug\net6.0\SistemaUsuarios.Data.dll
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\bin\Debug\net6.0\SistemaUsuarios.Data.pdb
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\obj\Debug\net6.0\SistemaUsuarios.Data.csproj.AssemblyReference.cache
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\obj\Debug\net6.0\SistemaUsuarios.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\obj\Debug\net6.0\SistemaUsuarios.Data.AssemblyInfoInputs.cache
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\obj\Debug\net6.0\SistemaUsuarios.Data.AssemblyInfo.cs
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\obj\Debug\net6.0\SistemaUsuarios.Data.csproj.CoreCompileInputs.cache
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\obj\Debug\net6.0\SistemaUsuarios.Data.dll
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\obj\Debug\net6.0\refint\SistemaUsuarios.Data.dll
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\obj\Debug\net6.0\SistemaUsuarios.Data.pdb
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\obj\Debug\net6.0\SistemaUsuarios.Data.genruntimeconfig.cache
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaUsuarios.Api\SistemaUsuarios.Data\obj\Debug\net6.0\ref\SistemaUsuarios.Data.dll
